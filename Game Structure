@@ -1,0 +1,5 @@
+bubble_shooter.py
+├── Game      → Controls the game loop and screen updates
+├── Shooter   → Handles aiming, shooting, and creating bubbles
+├── Bubble    → Individual bubble object (movement, collision)
+├── Grid      → Holds and manages stuck bubbles on the screen
